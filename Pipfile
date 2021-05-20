@@ -7,6 +7,11 @@ name = "pypi"
 flask = "*"
 jinja2 = "*"
 flask-sqlalchemy = "*"
+tweepy = "*"
+spacy = "*"
+python-dotenv = "*"
+scikit-learn = "*"
+google-api-python-client = "*"
 
 [dev-packages]
 
