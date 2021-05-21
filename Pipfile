@@ -12,6 +12,8 @@ spacy = "*"
 python-dotenv = "*"
 scikit-learn = "*"
 google-api-python-client = "*"
+psycopg2-binary = "*"
+gunicorn = "*"
 
 [dev-packages]
 
